@@ -7,3 +7,5 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧INDONESIA CHANNEL🚧",ANTV
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧INDONESIA CHANNEL🚧",INEWS
+https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
