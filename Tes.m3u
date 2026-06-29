@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰INDONESIA📰",METROTV
-https://iptv-org.github.io/channels/id/MetroTV#SD
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰INDONESIA📰",MNCTV
-https://iptv-org.github.io/channels/id/MNCTV#SD
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰INDONESIA📰",RTV
-https://iptv-org.github.io/channels/id/RajawaliTV#SD
-
-
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",INDONESIANA
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",mykid
+https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f2-v1-a1.m3u8
