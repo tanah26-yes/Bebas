@@ -5,3 +5,5 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/index-f2-v1-a1.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧SPORT🚧",FIFA USA
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_1200k_20260604T024843.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧animal🚧",amagi
+https://wildearth-xumo.amagi.tv/masterR216p.m3u8
