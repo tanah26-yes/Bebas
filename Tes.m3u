@@ -22,6 +22,13 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",antv
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",transtv
+http://opplextv.cyou:8080/nasir6160/nasir/351041
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",trans7
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+
+
+
 
 
 
