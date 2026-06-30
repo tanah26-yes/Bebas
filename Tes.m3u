@@ -24,11 +24,8 @@ https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",transtv
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
-#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",Trans7 V+
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TRANS 7 DIGITAL
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
 
 
