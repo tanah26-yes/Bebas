@@ -26,6 +26,9 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo=group-title="INDONESIA",TRANS 7 DIGITAL
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo=group-title="INDONESIA", GTV MAX
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
 
 
 
