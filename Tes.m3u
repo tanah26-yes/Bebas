@@ -29,7 +29,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo=group-title="INDONESIA", GTV MAX
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
-EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Sport", BEIN SPORTS 1 EN
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="Sport", BEIN SPORTS 1 EN
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinen1.m3u8
 
 
