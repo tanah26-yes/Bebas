@@ -15,4 +15,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1476838164_b384
 https://s.id/Shareext_liga1_m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",sctv
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",rcti
+https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",mnctv
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+
 
