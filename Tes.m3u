@@ -29,7 +29,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo=group-title="INDONESIA", GTV MAX
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo=group-title="INDONESIA",MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
