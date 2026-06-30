@@ -36,6 +36,8 @@ https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", SPOTV Now
 https://slive.mana2.my/SpotvNow/index.mpd
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNCTV DIGITAL
+http://103.170.100.42:6799/stream/channelid/377952375?ticket=0C19B39AFE8EF210321922992CECEBA8BDE723BB&profile=pass
 
 
 
