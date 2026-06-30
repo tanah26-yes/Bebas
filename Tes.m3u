@@ -11,7 +11,7 @@ https://wildearth-xumo.amagi.tv/masterR216p.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",cnn
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1476838164_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA",INDOSIAR DIGITAL SERVER 6
+#EXTINF:-1 tvg-logo=group-title="INDONESIA",INDOSIAR DIGITAL SERVER 6
 https://s.id/Shareext_liga1_m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",sctv
 https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -20,6 +20,9 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA", MNC TV MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",antv
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+
 
 
 
