@@ -24,6 +24,10 @@ https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",transtv
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧INDONESIA🚧",trans7
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+
+
 
 
 
