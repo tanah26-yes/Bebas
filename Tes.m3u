@@ -20,7 +20,10 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",mnctv
 https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:0 tvg-country="CN" tvg-logo=group-title="🚧indonesia🚧",mnctv
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", MNC TV MAX
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="INDONESIA", MNC TV MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
 
 
 
