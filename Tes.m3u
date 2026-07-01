@@ -58,6 +58,8 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FUSSBALL TV FHD
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+#EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo=group-title="INDONESIA",METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 
 
